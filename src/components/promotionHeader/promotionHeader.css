@@ -1,0 +1,17 @@
+.promotion{
+    margin:0;
+    background-color: #80ea6e;
+    text-align: center;
+    font-size: 15px;
+    width: 100%; 
+ 
+}
+.header{
+    padding: 10px 5px 10px 0;
+    color:white;
+    font-weight: bold;   
+  
+}
+span{
+    padding-left: 10px;
+}
